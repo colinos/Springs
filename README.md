@@ -1,4 +1,4 @@
 Springs
 =======
 
-interactive animation
+Interactive animation. Implemented in Processing.
